@@ -1,0 +1,1 @@
+Para hacer los test usamos un framework de texting llamado JEST
