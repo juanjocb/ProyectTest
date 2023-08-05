@@ -1,1 +1,1 @@
-Proyecto en el cual usamos JEST para hacer pruebas de funciones basicas JS
+Realizando un algoritmo teniendo en cuenta varios parametros y validaciones que controlamos con la libreria JEST
