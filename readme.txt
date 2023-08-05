@@ -1,1 +1,1 @@
-Para hacer los test usamos un framework de texting llamado JEST
+Proyecto en el cual usamos JEST para hacer pruebas de funciones basicas JS
